@@ -1,4 +1,4 @@
-package com.imooc.untils;
+package com.imooc.utils;
 
 import com.imooc.VO.ResultVO;
 
